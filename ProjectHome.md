@@ -1,0 +1,1 @@
+**OOODigitalSignature** è un applicazione per firmare documenti OpenOffice, utilizzando codici a barre di tipo [pdf417](http://it.wikipedia.org/wiki/PDF417), utilizzando un lettore di smartcard
